@@ -41,7 +41,7 @@
   [MPL神经网络模型+KFold交叉验证+Bagging ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2B%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81%2BBagging.py).
   
 ## 坐标文件夹 Longitude&Latitude
->[全国: ](https://github.com/xunchanglu0901/MODIS_AOD_PM25/blob/master/%E5%9D%90%E6%A0%87/%E7%AB%99%E7%82%B9%E5%88%97%E8%A1%A8-2018.11.08%E8%B5%B7%20-%20%E5%89%AF%E6%9C%AC.xlsx)监测站名称, 所属城市, 编码, 经纬度.
+>[全国监测点: ](https://github.com/xunchanglu0901/MODIS_AOD_PM25/blob/master/%E5%9D%90%E6%A0%87/%E7%AB%99%E7%82%B9%E5%88%97%E8%A1%A8-2018.11.08%E8%B5%B7%20-%20%E5%89%AF%E6%9C%AC.xlsx)编码, 名称, 所属城市, 经纬度.
 
 ## 扩展库和扩展程序
 #### [库](https://github.com/xunchanglu0901/MODIS04_3K_PM25/tree/master/%E6%89%A9%E5%B1%95%E5%BA%93%E5%92%8C%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F/%E5%BA%93)
