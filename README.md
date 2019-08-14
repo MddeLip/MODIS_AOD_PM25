@@ -36,16 +36,16 @@
 
 ## 扩展库和扩展程序
 #### 库
-  气象数据:DarkSkyAPI, 数据调用依赖库[darkskylib-master ], 详细内容请参考https://github.com/lukaskubis/darkskylib
-  气溶胶数据: HDF文件, 读取依赖库[python_hdf]
-  插值: 插值库fancyimpute安装遭遇失败时, 如'failed build', 'get microsoft build tools from..', 可以先安装[scs][ecos]
+  气象数据:DarkSkyAPI, 数据调用依赖库[darkskylib-master ], 详细内容请参考https://github.com/lukaskubis/darkskylib  
+  气溶胶数据: HDF文件, 读取依赖库[python_hdf]  
+  插值: 插值库fancyimpute安装遭遇失败时, 如'failed build', 'get microsoft build tools from..', 可以先安装[scs][ecos]  
 #### 程序
   学习过程中遇到的问题, 对应的整理出了解决方法..
   
 # 感谢
-  非环境科学领域专业学生, 对该内容感到兴趣便着手进行了.
-  代码上存在运算效率不够高, 繁琐的问题也欢迎大家给我提建议, 十分感谢.
-  加油, (ง •_•)ง~
+  非环境科学领域专业学生, 对该内容感到兴趣便着手进行了.  
+  代码上存在运算效率不够高, 繁琐的问题也欢迎大家给我提建议, 十分感谢.  
+  加油, (ง •_•)ง~  
   
   
   
