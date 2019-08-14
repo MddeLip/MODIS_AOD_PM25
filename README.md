@@ -46,7 +46,7 @@
 ## 扩展库和扩展程序
 #### [库](https://github.com/xunchanglu0901/MODIS04_3K_PM25/tree/master/%E6%89%A9%E5%B1%95%E5%BA%93%E5%92%8C%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F/%E5%BA%93)
 >气象数据: DarkSkyAPI, 数据调用依赖库[darkskylib-master], [详细内容.](https://github.com/lukaskubis/darkskylib)  
->气溶胶数据: HDF文件, 读取依赖库[python_hdf](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+>气溶胶数据: HDF文件, 读取依赖库[python_hdf](https://www.lfd.uci.edu/~gohlke/pythonlibs/)  
 >插值: 插值库[fancyimpute](https://pypi.org/project/fancyimpute/)安装遭遇失败时, 如'failed build', 'get microsoft build tools from..', 可以先安装[scs][ecos](https://www.lfd.uci.edu/~gohlke/pythonlibs/)  
 #### [程序](https://github.com/xunchanglu0901/MODIS04_3K_PM25/tree/master/%E6%89%A9%E5%B1%95%E5%BA%93%E5%92%8C%E6%89%A9%E5%B1%95%E7%A8%8B%E5%BA%8F/%E7%A8%8B%E5%BA%8F)
 >学习过程中遇到的问题, 对应的整理出了解决方法..
