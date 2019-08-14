@@ -23,7 +23,7 @@
 >批量,按照熵权法对四种插值方法进行融合.
   
 ## 气象数据文件夹 DarkSky API
-#### [DarkSkyAPI日均](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE/DarkSkyAPI%E6%97%A5%E5%9D%87.py)/[逐时](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE/DarkSkyAPI%E9%80%90%E6%97%B6.py).py：
+#### [DarkSkyAPI日均](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE/DarkSkyAPI%E6%97%A5%E5%9D%87.py)/[逐时.py: ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE/DarkSkyAPI%E9%80%90%E6%97%B6.py)
 >批量爬取对应经纬度的天气历史数据和天气预报数据.
 #### [日均](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE/%E6%97%A5%E5%9D%87%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.py)/[逐时气象数据处理.py](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE/%E9%80%90%E6%97%B6%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.py), [逐时气象数据均值处理.py:](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE/%E9%80%90%E6%97%B6%E6%B0%94%E8%B1%A1%E6%95%B0%E6%8D%AE%E5%9D%87%E5%80%BC%E5%A4%84%E7%90%86.py)
 >批量处理气象数据格式, 如时间范围删选, 时间格式调整, 逐时均值.
