@@ -29,15 +29,15 @@
 >批量处理气象数据格式, 如时间范围删选, 时间格式调整, 逐时均值.
 
 ## 建模文件夹 Model
->初步建立模型并应用交叉验证和重采样方法, 以下模型有待后续完善:  
+* 初步建立模型并应用交叉验证和重采样方法, 以下模型有待后续完善:  
 > 神经网络:
 >>[单输入模型](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E5%8D%95%E8%BE%93%E5%85%A5.py),
   [多输入模型 ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E5%A4%9A%E8%BE%93%E5%85%A5.py); 
   [多输入模型+Boosting ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E5%A4%9A%E8%BE%93%E5%85%A5%2Bboosting.py);  
->>[MPL神经网络模型+Bagging ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2BBagging.py); 
-   [MPL神经网络模型+KFold交叉验证 ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2B%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81.py);  
+>>[MPL神经网络模型+Bagging ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2BBagging.py); [MPL神经网络模型+KFold交叉验证 ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2B%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81.py);  
 >>[MPL神经网络模型+KFold交叉验证+Boosting ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2B%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81%2BBoosting.py); 
   [MPL神经网络模型+KFold交叉验证+Bagging ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2B%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81%2BBagging.py).  
+  
 >线性回归
  >>[线性回归模型+KFold交叉验证+Boosting ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%2B%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81%2BBoosting.py); 
   [线性回归模型+KFold交叉验证+Bagging ](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E5%BB%BA%E6%A8%A1/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%2B%E4%BA%A4%E5%8F%89%E9%AA%8C%E8%AF%81%2BBagging.py).   
