@@ -3,12 +3,12 @@
   使用NASA MODIS Aqua/Terra 卫星的气溶胶L2级别数据, 即MOD04_3K, 来预测日均PM.
 
 ## 数据来源 DATA
-  [气溶胶,](https://ladsweb.modaps.eosdis.nasa.gov/search/) 
+  [气溶胶(MODIS04),](https://ladsweb.modaps.eosdis.nasa.gov/search/) 
   [污染物/空气质量,](http://beijingair.sinaapp.com/) 
   [气象数据,](https://darksky.net/dev) 
   [程序包.](https://www.lfd.uci.edu/~gohlke/pythonlibs/) 
   再次感谢数据提供者!
-## [气溶胶文件夹 Aerosol](https://github.com/xunchanglu0901/MODIS04_3K_PM25/tree/master/%E6%B0%94%E6%BA%B6%E8%83%B6) 
+## 气溶胶文件夹 Aerosol
 #### [空间转换模块.py:](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E6%B0%94%E6%BA%B6%E8%83%B6/%E7%A9%BA%E9%97%B4%E8%BD%AC%E6%8D%A2%E6%A8%A1%E5%9D%97.py)
   批量读取.hdf文件,针对各个监测站经纬度获取三个不同长度半径的同心圆,再按照角度划分为不同区域.
 #### [四种插值方法和结果.py:](https://github.com/xunchanglu0901/MODIS04_3K_PM25/blob/master/%E6%B0%94%E6%BA%B6%E8%83%B6/%E5%9B%9B%E7%A7%8D%E6%8F%92%E5%80%BC%E6%96%B9%E6%B3%95%E5%92%8C%E7%BB%93%E6%9E%9C.py)
