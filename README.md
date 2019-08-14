@@ -8,7 +8,7 @@
   气象数据: https://darksky.net/dev  
   程序包: https://www.lfd.uci.edu/~gohlke/pythonlibs/  
   特别感谢数据提供者!
-## 气溶胶文件夹 Aerosol
+## [气溶胶文件夹](https://github.com/xunchanglu0901/MODIS04_3K_PM25/tree/master/%E6%B0%94%E6%BA%B6%E8%83%B6) Aerosol
 #### 空间转换模块.py：
   批量读取.hdf文件,针对各个监测站经纬度获取三个不同长度半径的同心圆,再按照角度划分为不同区域.
 #### 四种插值方法和结果.py：
