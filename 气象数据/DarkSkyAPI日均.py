@@ -33,17 +33,8 @@ start_count = 4944
 
 # API KEY
 API_KEY_LIST = [
-    "2ab378a4b9a0daee27f74037217b2632",
-    "d086b1f48cd072dae24ee6e936148728",
-    "ed7de1f3687f4c53316538a0ce968752",
-    "740c4d0fbd102f83a7753032c769b2b5",
-    "f2c02fb86fe5164b4ed839d52c3a1a42",
-    "1aa49cfd88b3904e0e26fd6d0a3d67e5",
-    "1875a6cd9baea3db91c31aa29bfa5638",
-    "b726c853b38c30d9b977bcce6fb2b37d",
-    "a5fc93a6781f6d55e7899ae443acd876",
-    "a7e8c6c0ade78c6ae03486be16e7faf0",
-    "ea6ba6d12b5619189b54f10275557872"]
+    "APIKEY1",
+    "APIKEY2"]
 # 路径
 coordinate_file_path = "D:\\毕业论文程序\\MODIS\\坐标\\"
 # 调整 日均 或 逐时
