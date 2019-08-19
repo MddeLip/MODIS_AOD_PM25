@@ -58,5 +58,3 @@
 >代码上存在运算效率不够高, 繁琐的问题也欢迎大家给我提建议, 十分感谢.  
 >加油, (ง •_•)ง~   
 >>欢迎大家来交流哈~ xunchanglu@vip.163.com
-
-##### [LICENSE](https://github.com/xunchanglu0901/MODIS_AOD_PM25/blob/master/LICENSE)
