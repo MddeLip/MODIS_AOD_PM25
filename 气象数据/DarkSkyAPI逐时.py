@@ -75,12 +75,6 @@ i = start_count
 
 # 监测站
 for jcz in JCZ:
-    # 放在下一个for里面？？？？？？？？？？
-    '''
-    API_KEY = API_KEY_LIST[math.floor(i/1000)]  
-    coordinate = API_KEY, jcz[1], jcz[0], jcz[2]  # API_KEY,纬度,经度,监测站,注意格式是先"纬度"后"经度"
-    MonitoringStation = coordinate[0:3]  # API_KEY、纬度、经度
-    '''
     outcome = []
     error = []
     # 一年循环
